@@ -15,7 +15,7 @@ body {
 
 .container {
     width: 100%;
-    height: 100%;
+    height: 100vh;
 }
 
 
@@ -23,12 +23,21 @@ body {
 
 .rec {
     position: absolute;
-    width: 80%;
-    height: 100%;
-    left: 30%;
+    width: 65%;
+    height: 100vh;
+    left: 35%;
     top: 0px;
     background: #ffffff;
     border-radius: 58px;
+}
+
+.rec2 {
+    position: absolute;
+    width: 60%;
+    height: 100vh;
+    left: 40%;
+    top: 0px;
+    background: #ffffff;
 }
 
 
@@ -65,18 +74,49 @@ body {
 
 /* Rectangle Positioning */
 
+.polyposi1 {
+    position: absolute;
+    width: 50%;
+    height: 60%;
+    right: 50%;
+}
+
+.polyposi2 {
+    position: absolute;
+    width: 50%;
+    height: 60%;
+    top: 40%;
+    left: 30%
+}
+
 .poly1 {
     position: absolute;
     width: 50%;
     height: 60%;
-    left: 40%;
+    left: 41%;
     top: 30%;
+}
+
+.poly2 {
+    position: absolute;
+    width: 50%;
+    height: 60%;
+    left: 29%;
+    top: 30%;
+}
+
+.poly3 {
+    position: absolute;
+    width: 50%;
+    height: 60%;
+    left: 35%;
+    top: 39%;
 }
 
 .polyStyle {
     fill: transparent;
     stroke: #B40061;
-    stroke-width: 8;
+    stroke-width: 5;
 }
 
 
@@ -148,5 +188,5 @@ input:checked+.slider:before {
 .greenMode .polyStyle {
     fill: transparent;
     stroke: #008243;
-    stroke-width: 8;
+    stroke-width: 5;
 }

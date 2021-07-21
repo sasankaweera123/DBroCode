@@ -18,27 +18,57 @@
         <div class="word1">Button</div>
         <div class="word2">Design</div>
         <div class="rec">
-            <div class="poly1">
-                <svg height="200" width="300">
-                    <polygon points="150,30 250,150 50,150"  class="polyStyle" />
-                </svg>
+            <div class="rec2"></div>
+            <div class="polyposi1">
+                <div class="poly1">
+                    <svg height="200" width="300">
+                        <polygon points="150,10 250,150 50,150"  class="polyStyle" />
+                    </svg>
+                </div>
+                <div class="poly2">
+                    <svg height="200" width="300">
+                        <polygon points="150,10 250,150 50,150"  class="polyStyle" />
+                    </svg>
+                </div>
+                <div class="poly3">
+                    <svg height="200" width="300">
+                        <polygon points="150,10 250,150 50,150"  class="polyStyle" />
+                    </svg>
+                </div>
+            </div>
+            <div class="polyposi2">
+                <div class="poly1">
+                    <svg height="200" width="300">
+                        <polygon points="150,10 250,150 50,150"  class="polyStyle" />
+                    </svg>
+                </div>
+                <div class="poly2">
+                    <svg height="200" width="300">
+                        <polygon points="150,10 250,150 50,150"  class="polyStyle" />
+                    </svg>
+                </div>
+                <div class="poly3">
+                    <svg height="200" width="300">
+                        <polygon points="150,10 250,150 50,150"  class="polyStyle" />
+                    </svg>
+                </div>
             </div>
         </div>
-    </div>
 
-    <div class="switchpos">
-        <label class="switch">
+        <div class="switchpos">
+            <label class="switch">
             <input type="checkbox" onClick="changeMode()">
                 <span class="slider"></span>
         </label>
-    </div>
+        </div>
 
-    <script>
-        function changeMode() {
-            var elem = document.body;
-            elem.classList.toggle("greenMode");
-        }
-    </script>
+
+        <script>
+            function changeMode() {
+                var elem = document.body;
+                elem.classList.toggle("greenMode");
+            }
+        </script>
 </body>
 
 </html>
