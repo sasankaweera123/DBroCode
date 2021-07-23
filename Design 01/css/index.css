@@ -10,6 +10,11 @@
     --red-color: #B40061;
 }
 
+* {
+    padding: 0;
+    margin: 0;
+}
+
 
 /* Defult body color */
 
