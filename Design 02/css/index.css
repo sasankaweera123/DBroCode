@@ -12,26 +12,41 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.container h1 {
+.text {
     margin: 0;
     white-space: nowrap;
     overflow: hidden;
-    animation: type 1s steps(50, end), curser .8s ease infinite;
-    border-right: 8px solid white;
+    /* animation: type 2s steps(20, end), curser .8s infinite; */
+    /* border-right: 8px solid white; */
 }
 
-.container .textclass {
+.textclass {
     color: red;
 }
 
-
-/* .t1 {
+.t1 {
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: type 2s steps(20, end), curser1 .8s 4;
+    border-right: 8px solid transparent;
     animation-delay: 0;
+    transition: .2s;
 }
 
 .t2 {
-    animation-delay: 0.5;
-} */
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: type 2s steps(19, end), curser .8s infinite;
+    border-right: 8px solid white;
+    animation-fill-mode: both;
+    animation-delay: 3s;
+}
+
+.t1:active {
+    border-right: 8px solid transparent;
+}
 
 @keyframes type {
     0% {
@@ -43,6 +58,18 @@ body {
 }
 
 @keyframes curser {
+    0% {
+        border-color: transparent;
+    }
+    50% {
+        border-color: white;
+    }
+    100% {
+        border-color: transparent;
+    }
+}
+
+@keyframes curser1 {
     0% {
         border-color: transparent;
     }
@@ -67,15 +94,45 @@ body {
 
 .sasaimg {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 30%;
 }
 
-.sasaborder {
+.nidulaimg {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+}
+
+.border {
     border: 3px white;
     border-style: dashed;
-    animation-delay: 2s;
-    animation: shade 1.5s steps(50, end), curser 2s ease infinite;
+    animation: shade 1.5s steps(50, end), curser 1.5s ease infinite;
+}
+
+.b1 {
+    animation-fill-mode: both;
+    animation-delay: 4.5s;
+}
+
+.b2 {
+    animation-fill-mode: both;
+    animation-delay: 6s;
+}
+
+.sasatxtposi {
+    position: absolute;
+    top: 68%;
+    left: 33%;
+}
+
+.sasatext {
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: type 2s steps(15, end);
+    animation-fill-mode: both;
+    animation-delay: 6s;
 }
 
 
