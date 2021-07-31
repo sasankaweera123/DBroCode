@@ -135,5 +135,20 @@ body {
     animation-delay: 6s;
 }
 
+.nidulatxtposi {
+    position: absolute;
+    top: 68%;
+    left: 63.5%;
+}
+
+.nidulatext {
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: type 2s steps(15, end);
+    animation-fill-mode: both;
+    animation-delay: 7s;
+}
+
 
 /* #00fa00 */
