@@ -1,8 +1,9 @@
 body {
     background-color: black;
     color: white;
-    font-family: monospace;
+    /* font-family: monospace; */
     margin: 0;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .container {
@@ -123,7 +124,7 @@ body {
 .sasatxtposi {
     position: absolute;
     top: 68%;
-    left: 33%;
+    left: 32%;
 }
 
 .sasatext {
@@ -138,7 +139,7 @@ body {
 .nidulatxtposi {
     position: absolute;
     top: 68%;
-    left: 63.5%;
+    left: 62.5%;
 }
 
 .nidulatext {
@@ -152,3 +153,18 @@ body {
 
 
 /* #00fa00 */
+
+.thumb {
+    width: 165px;
+    background: black;
+  }
+  
+  .anim {
+    transition: 0.5s;
+    transform: translateY(100%);
+  }
+  
+
+  .thumb:hover .anim{
+    transform: translateY(0);
+  }
