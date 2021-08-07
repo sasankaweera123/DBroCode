@@ -7,7 +7,7 @@ body {
     background: radial-gradient(50% 50% at 50% 50%, #8263FF 0%, #6004D6 100%);
     color: #fff;
 }
-
+ 
 .container {
     position: absolute;
     top: 10%;
@@ -79,3 +79,182 @@ h1 {
         transform: rotateX(20deg);
     }
 }
+
+
+.rainw{
+
+    position: absolute;
+    border-left: 4px solid white;
+    height: 100px;
+    top: 3%;
+    left: 80%;
+    animation-name: witline;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes witline {
+    0%{
+        top: 3%;
+        left: 80%;
+    }
+
+    100%{top: 80%;
+    left: 80%;
+    }
+}
+.rainw2{
+
+    position: absolute;
+    border-left: 4px solid white;
+    height: 100px;
+    top: 40%;
+    left: 59%;
+    animation-name: witline2;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes witline2 {
+    0%{
+        top: 40%;
+        left: 59%;
+    }
+
+    100%{
+        top: 80%;
+        left: 59%;
+    }
+}
+.rainw3{
+
+    position: absolute;
+    border-left: 4px solid white;
+    height: 100px;
+    top: 70%;
+    left: 90%;
+    animation-name: witline3;
+    animation-duration: 4.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes witline3 {
+    0%{
+        top: 70%;
+        left: 90%;
+    }
+
+    100%{
+        top: 80%;
+        left: 90%;
+    }
+}
+.rainr{
+
+    position: absolute;
+    border-left: 4px solid red;
+    height: 100px;
+    top: 30%;
+    left: 76%;
+    animation-name: redline;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes redline {
+    0%{
+        top: 30%;
+        left: 76%;
+    }
+
+    100%{
+        top: 80%;
+        left: 76%;
+    }
+}
+
+.demond4 {
+    /* animation-timing-function: linear;  
+    animation-name: updown; */
+
+    position: absolute;
+    top: 8%;
+    left: 60%;
+    animation-name: demnd;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes demnd {
+    
+    0%{
+        top: 8%;
+        left: 60%;
+    }
+    50%{
+        top: 13%;
+        left: 60%;
+    }
+
+    100%{ 
+        top: 8%;
+        left: 60%;
+    }
+}
+.demond42 {
+    transform: rotateZ(-30deg);
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    animation-name: demnd42;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes demnd42 {
+    
+    0%{
+        top: 60%;
+        left: 60%;
+    }
+    50%{
+        top: 65%;
+        left: 60%;
+    }
+
+    100%{ 
+        top: 60%;
+        left: 60%;
+    }
+}
+
+.demond0 {
+    transform: rotateZ(30deg);
+    position: absolute;
+    top: 35%;
+    left: 80%;
+    animation-name: demnd0;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
+@keyframes demnd0 {
+    
+    0%{
+        top: 35%;
+        left: 80%;
+    }
+    50%{
+        top: 40%;
+        left: 80%;
+    }
+
+    100%{ 
+        top: 35%;
+        left: 80%;
+    }
+}
+
+
