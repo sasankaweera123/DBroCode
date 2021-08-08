@@ -7,7 +7,7 @@ body {
     background: radial-gradient(50% 50% at 50% 50%, #8263FF 0%, #6004D6 100%);
     color: #fff;
 }
- 
+
 .container {
     position: absolute;
     top: 10%;
@@ -80,181 +80,118 @@ h1 {
     }
 }
 
+.rain-deamon404 {
+    position: relative;
+    height: 100vh;
+}
 
-.rainw{
-
+.rainw {
     position: absolute;
     border-left: 4px solid white;
     height: 100px;
-    top: 3%;
+    top: 10%;
     left: 80%;
-    animation-name: witline;
-    animation-duration: 4s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation: rainWhitetop 1s ease-in-out infinite alternate-reverse;
 }
-@keyframes witline {
-    0%{
-        top: 3%;
-        left: 80%;
-    }
 
-    100%{top: 80%;
-    left: 80%;
-    }
-}
-.rainw2{
-
+.rainw2 {
     position: absolute;
     border-left: 4px solid white;
     height: 100px;
-    top: 40%;
+    top: 30%;
     left: 59%;
-    animation-name: witline2;
-    animation-duration: 5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation: rainWhiteleft 1s ease-in-out infinite alternate-reverse;
 }
-@keyframes witline2 {
-    0%{
-        top: 40%;
-        left: 59%;
-    }
 
-    100%{
-        top: 80%;
-        left: 59%;
-    }
+.rainr {
+    position: absolute;
+    border-left: 4px solid red;
+    height: 100px;
+    top: 37%;
+    left: 72%;
+    animation: rainred 1s ease-in-out infinite alternate-reverse;
 }
-.rainw3{
 
+.rainw3 {
     position: absolute;
     border-left: 4px solid white;
     height: 100px;
     top: 70%;
     left: 90%;
-    animation-name: witline3;
-    animation-duration: 4.5s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation: rainWhiteRight 1s ease-in-out infinite alternate-reverse;
 }
-@keyframes witline3 {
-    0%{
-        top: 70%;
-        left: 90%;
-    }
 
-    100%{
-        top: 80%;
-        left: 90%;
+@keyframes rainWhitetop {
+    0% {
+        top: 10%;
+    }
+    100% {
+        top: 20%;
     }
 }
-.rainr{
 
-    position: absolute;
-    border-left: 4px solid red;
-    height: 100px;
-    top: 30%;
-    left: 76%;
-    animation-name: redline;
-    animation-duration: 3s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-}
-@keyframes redline {
-    0%{
+@keyframes rainWhiteleft {
+    0% {
         top: 30%;
-        left: 76%;
     }
+    100% {
+        top: 40%;
+    }
+}
 
-    100%{
+@keyframes rainred {
+    0% {
+        top: 37%;
+    }
+    100% {
+        top: 47%;
+    }
+}
+
+@keyframes rainWhiteRight {
+    0% {
+        top: 70%;
+    }
+    100% {
         top: 80%;
-        left: 76%;
+    }
+}
+
+.demon404 {
+    position: relative;
+    width: 50%;
+    height: 100vh;
+    left: 36%;
+    animation: deamons 1s ease infinite alternate;
+}
+
+@keyframes deamons {
+    from {
+        top: 3%;
+    }
+    to {
+        top: 10%;
     }
 }
 
 .demond4 {
     /* animation-timing-function: linear;  
     animation-name: updown; */
-
     position: absolute;
-    top: 8%;
+    top: 3%;
     left: 60%;
-    animation-name: demnd;
-    animation-duration: 3s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
 }
 
-@keyframes demnd {
-    
-    0%{
-        top: 8%;
-        left: 60%;
-    }
-    50%{
-        top: 13%;
-        left: 60%;
-    }
-
-    100%{ 
-        top: 8%;
-        left: 60%;
-    }
-}
 .demond42 {
     transform: rotateZ(-30deg);
     position: absolute;
     top: 60%;
     left: 60%;
-    animation-name: demnd42;
-    animation-duration: 3s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-}
-@keyframes demnd42 {
-    
-    0%{
-        top: 60%;
-        left: 60%;
-    }
-    50%{
-        top: 65%;
-        left: 60%;
-    }
-
-    100%{ 
-        top: 60%;
-        left: 60%;
-    }
 }
 
 .demond0 {
     transform: rotateZ(30deg);
     position: absolute;
-    top: 35%;
-    left: 80%;
-    animation-name: demnd0;
-    animation-duration: 3s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-
+    top: 30%;
+    left: 90%;
 }
-@keyframes demnd0 {
-    
-    0%{
-        top: 35%;
-        left: 80%;
-    }
-    50%{
-        top: 40%;
-        left: 80%;
-    }
-
-    100%{ 
-        top: 35%;
-        left: 80%;
-    }
-}
-
-
