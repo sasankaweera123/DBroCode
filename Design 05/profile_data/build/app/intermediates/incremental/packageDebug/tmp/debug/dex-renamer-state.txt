@@ -1,0 +1,4 @@
+#Sat Aug 21 11:40:20 IST 2021
+base.0=C\:\\Users\\Nidula\\Documents\\GitHub\\DesignUI\\Design 05\\profile_data\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
