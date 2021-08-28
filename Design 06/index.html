@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Views</title>
+    <!-- Boostrap Load  -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- Font Awesome Icon Library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- load css File -->
+    <link rel="stylesheet" href="css/main.css">
+    <!-- kit's code here -->
+    <script src="https://kit.fontawesome.com/8eac0741ab.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark  py-3">
+        <div class="container">
+            <a class="navbar-brand" href="#"><img src="IMG/1.png" class="img-fluid" width="100"></a> Dshop
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Category</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact Us</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                More
+              </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <i class="fas fa-search"></i>
+                        <i class="fas fa-shopping-cart"></i>
+                        <i class="fas fa-user"></i>
+                    </li>
+            </div>
+        </div>
+    </nav>
+
+
+    <section class="container product my-5 pt-5">
+        <div class="row mt-5">
+            <div class="col-lg-5 col-md-12">
+                <img src="#" alt="Product main IMG" class="img-fluid w-100 pb-1" id="mainIMG">
+                <div class="small-img-group">
+                    <div class="small-img-col">
+                        <img src="#" alt="Product small IMGs" class="small-img" width="100%" id="smallIMGOne">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="#" alt="Product small IMGs" class="small-img" width="100%" id="smallIMGTwo">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="#" alt="Product small IMGs" class="small-img" width="100%" id="smallIMGThree">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="#" alt="Product small IMGs" class="small-img" width="100%" id="smallIMGFour">
+                    </div>
+                </div>
+            </div>
+            <div class="second-col col-lg-6 col-mid-12 mt-5 ml-3">
+                <h3 id="productName">Product name: </h3>
+                <div class="price-rating">
+                    <h2 id="price">Price</h2>
+                    <div>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="ml-2">3.0</span>
+                    </div>
+
+                </div>
+                <p><span class="main-description ">Description: </span><br><span id="description" class="mt-2">A smart shopper knows the best investments aren’t the fussy kicks adorned with every embellishment, but the clean silhouettes with just a hint of flair that’ll stick around forever. The appeal of white sneakers isn’t lost on anyone. White sneakers are the ever-dependable shoe that's versatile, relatively easy to clean, and even easier to scruff for a worn-in, grungy look. Songs were made in honor of the classic shoe to show you just how integral they are to one's wardrobe. (Nelly "Air Force Ones" ring a bell?) However you prefer your kicks—are you the Insta-Squatter with creaseless Air Force or a floral and Keds kinda gal?—scroll through our picks of the 26 best white sneakers you need right now.</span></p>
+                <input type="number" value="1">
+                <button class="cart-btn">Add to Cart</button>
+                <button class="buy-btn">Buy Now</button>
+                <div class="Payment-Methods pt-5">
+                    <div class="payments">
+                        <i class="fab fa-cc-visa payment-one"></i>
+                        <i class="fab fa-cc-paypal payment-one"></i>
+                        <i class="fab fa-apple-pay payment-one"></i>
+                        <i class="fab fa-btc payment-one"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="container seller py-3">
+        <div class="boxed py-4 pl-3">
+            <section class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 seller-profile">
+                        <img src="IMG/SASA.png" alt="Product main IMG" class="img-fluid" width="250px" id="mainIMG">
+                        <!-- <i class="fas fa-user"></i> -->
+                    </div>
+                    <div class="seller-right col-lg-5 col-mid-12">
+                        <div class="Rating">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star"></span>
+                            <span class="ml-2">4.0</span>
+                        </div>
+                        <div class="mt-5">
+                            <p>Sasanka Weerakoon</p>
+                            <p>Contact No:<br>+94 213 343 244</p>
+                            <p> Email: sasankaweera123@gmail.com</p>
+                            <p> Other Items :</p>
+                            <div class="small-img-group">
+                                <div class="small-img-col">
+                                    <img src="https://images.asos-media.com/products/new-look-captain-sneaker-in-black/14647401-1-black" alt="Product small IMGs" class="small-img" width="100%">
+                                </div>
+                                <div class="small-img-col">
+                                    <img src="https://images.asos-media.com/products/converse-chuck-70-hi-sneakers-in-terracotta-pink/201236713-1-dustypink" alt="Product small IMGs" class="small-img" width="100%">
+                                </div>
+                                <div class="small-img-col">
+                                    <img src="https://images.asos-media.com/products/jack-jones-canvas-plimsoll-in-navy/23378400-1-navyblazer" alt="Product small IMGs" class="small-img" width="100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <section class="container py-4">
+        <div class="comments">
+            <h2>Comments</h2>
+            <input class="comment-input mt-3 " type="text" placeholder="Enter Your comments......">
+            <div class="comments-user container">
+                <div class="comment-box py-3 pl-3">
+                    <div class="comment-name ">
+                        <p>Nidula</p>
+                        <span class="fa fa-star checked pr-4"></span>
+                    </div>
+                    <p class="comment-customer pr-3">My impression was very good. The homepage is extremely functional, informative, easy to use and helpful. I really like the fact that there is a big variety of styles, and a lot of information about everything.</p>
+                </div>
+                <div class="comment-box py-3 pl-3">
+                    <p>Paviya</p>
+                    <p class="comment-customer pr-3">The quality of shoes is high, the fit and shoe last are very comfortable and the size charts are very precise.</p>
+                </div>
+                <div class="comment-box py-3 pl-3">
+                    <p>Gaya</p>
+                    <p class="comment-customer pr-3">I am also satisfied with the level of customer service. My only suggestion is that I would prefer to see more loafer styles and more suede shoes.</p>
+                </div>
+            </div>
+            <div class="more mt-5">
+                <h2>-More-</h2>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="mt-5 py-4 container">
+        <div class="footer-fixed row">
+            <div class="m-0 py-4 ">
+                <h3 class="pl-2">Follow Us</h3>
+                <div class="row socials pl-2">
+                    <a href="https://www.facebook.com/CodeZone-107084475018756"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/d_bro_code/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://github.com/sasankaweera123/DesignUI"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+            <div class="right-txt m-0 py-4 pt-5">
+                <h5>Copyright<a href="https://github.com/sasankaweera123/DesignUI"><span class="dbrocode">@D_Bro_Code</span></a></h5>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

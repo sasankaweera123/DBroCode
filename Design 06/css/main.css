@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@500&display=swap');
+body {
+    font-family: 'Baloo Tamma 2', cursive;
+    background: radial-gradient(50% 50% at 50% 50%, #243B55 0%, #141E30 100%);
+    color: white;
+}
+
+.navbar {
+    background-color: #141E30;
+    font-size: 22px;
+}
+
+.navbar i:hover,
+.navbar i.active {
+    color: white;
+}
+
+.navbar .navbar-nav .nav-link {
+    padding: 0 20px;
+    transition: .3s ease;
+}
+
+.navbar i {
+    color: gray;
+    font-size: 1.2rem;
+    padding: 0 7px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: .3s ease;
+}
+
+.nav-item {
+    color: white;
+}
+
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col {
+    flex-basis: 24%;
+    cursor: pointer;
+}
+
+.price-rating {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checked {
+    color: orange;
+}
+
+.main-description {
+    font-weight: bold;
+}
+
+.product input {
+    width: 70px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    background-color: transparent;
+    color: white;
+}
+
+.product input:focus {
+    outline: none;
+}
+
+.second-col p {
+    text-align: justify;
+}
+
+.cart-btn,
+.buy-btn {
+    background: none;
+    color: white;
+    border: 2px solid;
+    margin: 0.2em;
+    padding: 0.5em 1em;
+}
+
+.cart-btn:focus,
+.cart-btn:hover,
+.buy-btn:hover,
+.buy-btn:focus {
+    box-shadow: inset 0 0 0 2em black;
+}
+
+.payments {
+    color: gray;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.payment-one:hover {
+    color: white;
+}
+
+.seller {
+    display: flex;
+    justify-content: center;
+}
+
+.boxed {
+    margin-top: 50px;
+    width: 550px;
+    height: 370px;
+    background: #141E30;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 0 3px 3px gray;
+    cursor: pointer;
+}
+
+.seller-profile {
+    display: flex;
+    justify-content: center;
+}
+
+.Rating {
+    float: right;
+}
+
+.comment-name {
+    display: flex;
+    justify-content: space-between;
+}
+
+.comment-box {
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+    background: #141E30;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 0 3px 3px gray;
+    cursor: pointer;
+}
+
+.comment-input {
+    width: 100%;
+    background: transparent;
+    color: white;
+    border: none;
+    border-bottom: 2px solid white;
+}
+
+.comment-input:focus {
+    outline: none;
+}
+
+.comments-user {
+    display: flex;
+    justify-content: space-around;
+}
+
+.more {
+    color: gray;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.more:hover {
+    color: white;
+}
+
+.comment-customer {
+    text-align: justify;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20px;
+}
+
+.socials i {
+    font-size: 1.5rem;
+    color: grey;
+}
+
+.socials i:hover {
+    color: white;
+}
+
+.footer-fixed {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-txt {
+    color: gray;
+}
+
+.right-txt .dbrocode {
+    text-decoration: none;
+    color: gray;
+}
+
+.right-txt .dbrocode:hover {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
