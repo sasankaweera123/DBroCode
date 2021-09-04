@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;700&display=swap');
+body {
+    font-family: 'Baloo Tamma 2', cursive;
+    background: #FDC708;
+}
+
+.image {
+    display: block;
+    justify-content: center;
+}
+
+p {
+    font-size: 11px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.maintxt {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.aftertxt {
+    animation: 2.5s seondanime linear forwards;
+    animation-fill-mode: both;
+    animation-delay: 7s;
+}
+
+@keyframes seondanime {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#typedtext {
+    padding-bottom: 0.5rem;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+h4 {
+    color: #271D9E;
+}
+
+h3 {
+    padding-bottom: 1rem;
+    color: #F60707;
+}
+
+li {
+    font-size: 11px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.mainSection {
+    display: flex;
+}
+
+.text {
+    padding-left: 3rem;
+}
+
+.referenceLink {
+    color: #8C7E7E;
+    text-align: end;
+}
+
+.referenceLink:hover {
+    color: black;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+
+.vl {
+    margin-top: 3rem;
+    margin-left: 2rem;
+    border-left: 3px solid #c68642;
+    height: 850px;
+}
