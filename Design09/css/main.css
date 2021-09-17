@@ -1,98 +1,179 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500&display=swap");
-body{
+body {
     font-family: 'Baloo Tamma 2', cursive;
-    color: aliceblue;
-    
+    background: black;
+    color: white;
 }
-h1{
-    padding-top: 9rem;
+
+h1 {
+    padding-top: 11rem;
     text-align: center;
 }
-.mainSection{
-    display: flex;
-    align-content: center;
 
+.mainSection {
+    display: flex;
 }
-.image{
-    padding-left: 25% ;
+
+.image {
+    padding-left: 25%;
     padding-top: 3rem;
     height: 175;
     width: 177;
 }
-.text{
-    padding-right: 25%;
-    padding: 5em;
+
+.text {
+    padding-left: 5rem;
     font-size: large;
-    padding-top: 3rem;
 }
-.buttons{
+
+.buttons {
+    padding-top: 2rem;
     display: flex;
-    padding-left: 20%;
-    padding-right: 20%;
+    justify-content: space-between;
 }
-.helpButton{
+
+.helpButton {
+    font-weight: bold;
+    border: 3px solid #fff;
+    border-radius: 15%;
+    font-size: 20px;
+    font-family: 'Baloo Tamma 2', cursive;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    transition: .8s;
+    position: relative;
+    overflow: hidden;
+}
+
+.helpButton::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: #fff;
+    z-index: -1;
+    transition: .8s;
+    top: 0;
+    border-radius: 0 0 50% 50%;
+}
+
+.helpButton:hover::before {
+    height: 180%;
+}
+
+.helpButton:hover {
+    border: 3px solid black;
+    color: black;
+}
+
+
+/* /* .helpButton {
     font-size: medium;
     border: 2px solid;
     margin: 0.2em;
     padding: 0.5em 1em;
-}
-
+} */
 
 .homeButton {
-    font-size: medium;
-    border: 2px solid;
-    margin: 0.2em;
-    padding: 0.5em 1em;
-    
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 15%;
+    font-size: 20px;
+    font-family: 'Baloo Tamma 2', cursive;
+    background: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+    transition: .8s;
+    position: relative;
+    overflow: hidden;
 }
-.deamonFace1{
-   position: absolute;
-   top: 10%;
-   left: 5%;
-   animation: deamon 3s ease-in-out infinite alternate-reverse;
-}
-.deamonFace2{
+
+.homeButton::before {
+    content: "";
     position: absolute;
-    top: 80%;
-    right: 5%;
-    animation: deamon 3s ease-in-out infinite alternate;
- }
-#EyeBros {
-    animation: opa 1s ease-in-out infinite alternate ;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: none;
+    z-index: -1;
+    transition: .8s;
+    top: 0;
+    border-radius: 0 0 50% 50%;
 }
-@keyframes opa{
-    from{
+
+.homeButton:hover::before {
+    height: 180%;
+}
+
+.homeButton:hover {
+    border: 3px solid white;
+    background: none;
+    color: white;
+}
+
+.deamonFace1 {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    animation: deamon 4s ease-in-out infinite alternate-reverse;
+}
+
+.deamonFace2 {
+    position: absolute;
+    top: 70%;
+    right: 5%;
+    animation: deamon 4s ease-in-out infinite alternate;
+}
+
+#EyeBros {
+    animation: opa 1s ease-in-out infinite alternate;
+}
+
+@keyframes opa {
+    from {
         opacity: 0;
-    }to{
+    }
+    to {
         opacity: 1;
     }
 }
+
 @keyframes deamon {
     0% {
-        left: 90%;
+        left: 80%;
     }
     100% {
-        left: 10%;
+        left: 5%;
     }
 }
-/* blured */
-#warning {
 
+
+/* blured */
+
+#warning {
     filter: drop-shadow(0px 0px 10px red);
 }
+
 #Group7 {
-    animation :opa 100ms ease-in-out infinite alternate;
-}
-.homeButton:hover {
-    background-color: black;
-    color:white;
-
-    
-}
-.helpButton:hover {
-    background-color: black;
-    color:white;
-    
-    
+    animation: opa 0.6s ease-in-out infinite alternate;
 }
 
+footer {
+    padding-top: 11rem;
+    font-family: 'Baloo Tamma 2', cursive;
+    color: white;
+    opacity: 0.2;
+}
+
+.footer-items {
+    padding-top: 50px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
