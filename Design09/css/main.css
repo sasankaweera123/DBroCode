@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500&display=swap");
+body{
+    font-family: 'Baloo Tamma 2', cursive;
+    color: aliceblue;
+    
+}
+h1{
+    padding-top: 9rem;
+    text-align: center;
+}
+.mainSection{
+    display: flex;
+    align-content: center;
+
+}
+.image{
+    padding-left: 25% ;
+    padding-top: 3rem;
+    height: 175;
+    width: 177;
+}
+.text{
+    padding-right: 25%;
+    padding: 5em;
+    font-size: large;
+    padding-top: 3rem;
+}
+.buttons{
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.helpButton{
+    font-size: medium;
+    border: 2px solid;
+    margin: 0.2em;
+    padding: 0.5em 1em;
+}
+
+
+.homeButton {
+    font-size: medium;
+    border: 2px solid;
+    margin: 0.2em;
+    padding: 0.5em 1em;
+    
+}
+.deamonFace1{
+   position: absolute;
+   top: 10%;
+   left: 5%;
+   animation: deamon 3s ease-in-out infinite alternate-reverse;
+}
+.deamonFace2{
+    position: absolute;
+    top: 80%;
+    right: 5%;
+    animation: deamon 3s ease-in-out infinite alternate;
+ }
+#EyeBros {
+    animation: opa 1s ease-in-out infinite alternate ;
+}
+@keyframes opa{
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+}
+@keyframes deamon {
+    0% {
+        left: 90%;
+    }
+    100% {
+        left: 10%;
+    }
+}
+/* blured */
+#warning {
+
+    filter: drop-shadow(0px 0px 10px red);
+}
+#Group7 {
+    animation :opa 100ms ease-in-out infinite alternate;
+}
+.homeButton:hover {
+    background-color: black;
+    color:white;
+
+    
+}
+.helpButton:hover {
+    background-color: black;
+    color:white;
+    
+    
+}
+
