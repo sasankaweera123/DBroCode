@@ -1,74 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500&display=swap');
-body{
-   
+body {
     font-weight: bold;
     font-size: 24;
     justify-content: center;
-    background-image: url('IMG/graduate.png'); background-repeat: no-repeat; width: 1154; height: 487; align-items: center;
-    background-position: 50% 0px; 
+    background-image: url('IMG/graduate.png');
+    background-repeat: no-repeat;
+    width: 1154;
+    height: 487;
+    align-items: center;
+    background-position: 50% 0px;
     font-family: 'Baloo Tamma 2', cursive;
- 
-    
 }
 
-.mainClass{
+.mainClass {
     width: 1250px;
-	margin: auto;
-
-
+    margin: auto;
 }
 
-.mainSection{
+.mainSection {
     padding-left: 2em;
     display: flex;
     background-color: #6e0505;
     color: #eccb51;
     padding-top: 1em;
-} 
-
-ul.toolbar  {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-    color: #eccb51;
-    
- }
-
-.description{
-    padding-top:6em;
-    color: #7E0E0E;
-    text-align: center;
 }
 
-.txt{
+ul.toolbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: #eccb51;
+}
+
+.description {
     padding-top: 6em;
     color: #7E0E0E;
     text-align: center;
 }
 
+.txt {
+    padding-top: 6em;
+    color: #7E0E0E;
+    text-align: center;
+}
 
-
- ul.toolbar li {
+ul.toolbar li {
     padding-top: 1em;
-	float: left;
-	text-align: center;
+    float: left;
+    text-align: center;
 }
 
-
-ul.toolbar a:link, ul.toolbar a:visited {
-	display: block;
-	width: 165px;
-	color: #eccb51;
-	background-color: #6e0505;
-	padding: 3px;
-	text-decoration: none;
+ul.toolbar a:link,
+ul.toolbar a:visited {
+    display: block;
+    width: 165px;
+    color: #eccb51;
+    background-color: #6e0505;
+    padding: 3px;
+    text-decoration: none;
 }
 
-ul.toolbar a:hover, ul.nav a:active {
-	background-color: rgb(226, 53, 10);
+ul.toolbar a:hover,
+ul.nav a:active {
+    background-color: rgb(226, 53, 10);
 }
-
 
 .tagline-box {
     margin-top: 50px;
@@ -84,33 +80,40 @@ ul.toolbar a:hover, ul.nav a:active {
     float: left;
     padding: 45px;
     margin: 35px;
-    
 }
 
-
-
-.button{
+.button {
+    font-family: 'Baloo Tamma 2', cursive;
     color: #7E0E0E;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
     font-weight: bold;
-}
-.button:hover {
-    background-color: #eccb51 ;
-    
+    cursor: pointer;
 }
 
-ul.bottomlist  {
-	list-style-type: none;
-	display: flex;
-    padding-top: 1em;
-	overflow: hidden;
-    color:#eccb51;
-    background-color:#7E0E0E ;
+.button:hover {
+    background-color: #eccb51;
 }
- svg{
-     margin-right: 1em;
-     padding-top: 0em;
- }
-.listTxt{
+
+ul.bottomlist {
+    list-style-type: none;
+    display: flex;
+    padding-top: 1em;
+    overflow: hidden;
+    color: #eccb51;
+    background-color: #7E0E0E;
+}
+
+svg {
+    margin-right: 1em;
+    padding-top: 0em;
+}
+
+.listTxt {
     display: flex;
     margin-right: 10%;
     padding-left: 8%;
