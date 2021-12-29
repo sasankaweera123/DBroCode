@@ -22,6 +22,8 @@ async function getdata(position) {
     getWeekDay();
     const data = await res.json();
     document.getElementById("location").innerText = data.location.name;
+    document.getElementById("locationParts").innerText =
+        data.location.region + " , " + data.location.country;
     document.getElementById("dateTime").innerText =
         data.location.localtime.substr(0, 10);
     document.getElementById("txtWord").innerText = data.current.condition.text;
