@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     font-family: "Open Sans", sans-serif;
-    background-image: url("../nature.jpg");
+    background-image: url("../IMG/nature.jpg");
     background-size: cover;
     size: 120%;
 }
