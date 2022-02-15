@@ -1,0 +1,83 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("nature.jpg");
+    background-size: cover;
+    size: 120%;
+}
+
+.card {
+    background: #000000ad;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 44px;
+    width: 44px;
+    outline: none;
+    color: white;
+    background: #7c7c7cad;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+input.search-bar {
+border: none;
+outline: none;
+padding: 0.4em 1em;
+border-radius: 24px;
+background: #7c7c7cad;
+color: white;
+font-family: inherit;
+font-size: 105%;
+width: calc(100% - 100px);
+}
+input.search-bar::placeholder{
+    color: rgba(255, 255, 255, 0.555);
+}
+
+
+button:hover {
+    background: #7c7c7cf7;
+}
+
+.wheather{
+  
+    width: 100vh;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.city{
+    
+    font-size: 40px;
+}
+.wheather img{
+    margin-left: 90px;
+    /* padding: 20px 0px; */
+    height: 140px;
+    width: 170px;
+}
+.description{
+    font-size: 30px;
+    font-weight: bold;
+}
