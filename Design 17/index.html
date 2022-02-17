@@ -16,8 +16,8 @@
 <body>
     <div class="card-box">
         <div class="search_icon">
-            <input type="text" class="search-bar" placeholder="Search" />
-            <button class="button_icon">
+            <input type="text" class="search-bar" placeholder="Search" id="searchTxt" />
+            <button class="button_icon" onclick="getdata()">
           <svg
             stroke="currentColor"
             fill="currentColor"
@@ -34,7 +34,7 @@
         </button>
         </div>
         <div class="weather">
-            <div class="city" id="location">Galle</div>
+            <div class="city" id="location">Main Location</div>
             <div class="day" id="locationParts">Location</div>
             <div class="day">
                 <p id="dateTime">DateTime</p>
@@ -44,7 +44,7 @@
             <div class="wheather">
                 <h1 class="temp" id="temperatureC">30°C</h1>
                 <h1>&nbsp|&nbsp</h1>
-                <h1 id="temperatureF">73</h1>
+                <h1 id="temperatureF">73°F</h1>
                 <img src="IMG/Group.png" alt="" class="icon" id="weatherIcon" />
             </div>
             <div class="description" id="txtWord">Cloudy</div>

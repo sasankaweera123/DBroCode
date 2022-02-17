@@ -1,17 +1,8 @@
-async function yourLocation() {
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(getdata);
-    } else {
-        console.log("Error");
-    }
-}
+async function getdata() {
+    var inputVal = document.getElementById("searchTxt").value;
 
-async function getdata(position) {
     const res = await fetch(
-        "https://weatherapi-com.p.rapidapi.com/current.json?q=q=" +
-        position.coords.latitude +
-        "," +
-        position.coords.longitude, {
+        "https://weatherapi-com.p.rapidapi.com/current.json?q=q=" + inputVal, {
             method: "GET",
             headers: {
                 "x-rapidapi-host": "weatherapi-com.p.rapidapi.com",
@@ -55,5 +46,3 @@ function getWeekDay() {
     let day = weekday[d.getDay()];
     document.getElementById("weekDay").innerText = day;
 }
-
-yourLocation();
