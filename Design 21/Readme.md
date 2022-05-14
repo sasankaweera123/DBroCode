@@ -2,7 +2,7 @@
 # S/T New Year
 
 May the new year acquire all the beneficial things life you genuinely merit. You had an astonishing year as of now and you’re going to have another all the more astounding one! 🎉🎇🎆
-</br?
+</br>
 Happy Sinhala Tamil New Year 2022!❤️‍🔥✨
 
 ## Features
