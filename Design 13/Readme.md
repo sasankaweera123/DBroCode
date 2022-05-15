@@ -29,7 +29,7 @@ There are infinite shadings of light and shadows and colors .. it's an extraordi
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2013/IMG/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2013/IMG/img1.png">
 
 
 ## Creators
