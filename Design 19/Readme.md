@@ -1,15 +1,15 @@
 
-# University
+# Review
 
-Education is the passport to the future, for tomorrow belongs to those who prepare for it today. 😇🧑‍🎓
+True intuitive expertise is learned from prolonged experience with good feedback on mistakes.😇
 
 
 ## Features
 
-- University site
+- Review
 - Live previews
 - Fullscreen mode
-- Copyrights
+
 
 
 ## 🛠 Skills
@@ -24,15 +24,14 @@ Education is the passport to the future, for tomorrow belongs to those who prepa
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Brown Color | ![#6e0505](https://via.placeholder.com/10/6e0505?text=+) #6e0505 |
-| Yellow Color | ![#eccb51](https://via.placeholder.com/10/eccb51?text=+) #eccb51 |
-| Dark Brown Color | ![#7E0E0E](https://via.placeholder.com/10/7E0E0E7?text=+) #7E0E0E |
-| Grey Color | ![#C4C4C4](https://via.placeholder.com/10/C4C4C4?text=+) #C4C4C4 |
+| Black Color | ![#000000](https://via.placeholder.com/10/0000008?text=+) #000000 |
+| White Color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
+| Dark Gray Color | ![#242526](https://via.placeholder.com/10/ff0000?text=+) #f242526 |
+| Light Gray Color | ![#DCDCDC](https://via.placeholder.com/10/ff0000?text=+) #DCDCDC |
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2011/IMG/img.png">
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2011/IMG/img2.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2019/IMG/img1.png">
 
 
 ## Creators
