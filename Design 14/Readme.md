@@ -35,7 +35,7 @@ Merry christmas to all of you❤
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2014/IMG/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2014/IMG/img1.png">
 
 
 ## Creators
