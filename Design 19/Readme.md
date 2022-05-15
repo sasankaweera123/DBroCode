@@ -31,7 +31,7 @@ True intuitive expertise is learned from prolonged experience with good feedback
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2019/IMG/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2019/IMG/img1.png">
 
 
 ## Creators
