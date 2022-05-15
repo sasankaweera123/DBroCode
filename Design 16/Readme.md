@@ -31,7 +31,7 @@ The biggest communication problem is we do not listen to understand 😶.We list
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2016/IMG/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2016/IMG/img1.png">
 
 
 ## Creators
