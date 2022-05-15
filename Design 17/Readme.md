@@ -31,7 +31,7 @@ Wherever you go, no matter what the weather, always bring your own sunshineðŸŒžð
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2017/IMG/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2017/IMG/img1.png">
 
 
 ## Creators
