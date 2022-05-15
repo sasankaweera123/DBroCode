@@ -36,7 +36,7 @@ Eat, drink and live free. There’s no telling what might happen tomorrow. 🍲�
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2022/img/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2022/img/img1.png">
 
 
 
