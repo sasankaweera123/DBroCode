@@ -32,10 +32,7 @@ There can be no real beauty without neatness and order🧑‍🎓
 
 
 ## Images
-<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2010/IMG/img1.png">
-<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2010/IMG/img2.png">
-<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2010/IMG/img3.png">
-
+<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2015/IMG/Design%2015-1.png">
 
 
 ## Creators
