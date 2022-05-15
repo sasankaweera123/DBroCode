@@ -33,7 +33,7 @@ Happy Sinhala Tamil New Year 2022!❤️‍🔥✨
 
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2021/IMG/img1.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2021/IMG/img1.png">
 
 
 ## Creators
