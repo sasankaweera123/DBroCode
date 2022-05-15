@@ -24,15 +24,15 @@ Eat, drink and live free. There’s no telling what might happen tomorrow. 🍲�
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Black Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| White Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Light Yellow Color | ![#EBEB84](https://via.placeholder.com/10/EBEB84?text=+) #EBEB84 |
-| Light Brown Color | ![#A37171](https://via.placeholder.com/10/A37171?text=+) #A37171 |
-| Light Green Color | ![#A9F68D](https://via.placeholder.com/10/A9F68D?text=+) #A9F68D |
-| Dark Red Color | ![#DF0909](https://via.placeholder.com/10/DF0909?text=+) #DF0909 |
-| Red Color | ![#FB0707](https://via.placeholder.com/10/FB0707?text=+) #FB0707|
-| Dark Orange Color | ![#EC7615](https://via.placeholder.com/10/EC7615?text=+) #EC7615 |
-| Light Orange Color | ![#DF8109](https://via.placeholder.com/10/DF8109?text=+) #DF8109 |
+| Black Color | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) #000000 |
+| White Color | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) #FFFFFF |
+| Light Yellow Color | ![#EBEB84](https://via.placeholder.com/15/ebeb84/000000?text=+) #EBEB84 |
+| Light Brown Color | ![#A37171](https://via.placeholder.com/15/A37171/000000?text=+) #A37171 |
+| Light Green Color | ![#A9F68D](https://via.placeholder.com/15/A9F68D/000000?text=+) #A9F68D |
+| Dark Red Color | ![#DF0909](https://via.placeholder.com/15/DF0909/000000?text=+) #DF0909 |
+| Red Color | ![#FB0707](https://via.placeholder.com/15/FB0707/000000?text=+) #FB0707|
+| Dark Orange Color | ![#EC7615](https://via.placeholder.com/15/EC7615/000000?text=+) #EC7615 |
+| Light Orange Color | ![#DF8109](https://via.placeholder.com/15/DF8109/000000?text=+) #DF8109 |
 
 
 ## Images
