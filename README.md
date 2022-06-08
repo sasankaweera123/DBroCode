@@ -21,6 +21,8 @@ We do cool stuff in #coding 🤓
     - Mobile
 - [Design 06](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2006)
   - Ecommerce
+- [Design 07](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2007)
+  - Article
         
 
 -- [**WAIT FOR NEW DESIGNS**](https://www.facebook.com/codezonetech/) --
