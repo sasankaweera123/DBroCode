@@ -23,6 +23,8 @@ We do cool stuff in #coding 🤓
   - Ecommerce
 - [Design 07](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2007)
   - Article
+- [Design 08](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2008)
+  - Loader
         
 
 -- [**WAIT FOR NEW DESIGNS**](https://www.facebook.com/codezonetech/) --
