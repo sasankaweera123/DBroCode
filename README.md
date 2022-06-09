@@ -8,24 +8,17 @@ We do cool stuff in #coding 🤓
 
 ## Designs
 
-- [Design 01](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2001)
-  - Button Design
-- [Design 02](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2002)
-  - Developers
-- [Design 03](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2003)
-  - 404 Error
-- [Design 04](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2004)
-  - Coming Soon
-- [Design 05](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2005)
-  - Profile
-    - Mobile
-- [Design 06](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2006)
-  - Ecommerce
-- [Design 07](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2007)
-  - Article
-- [Design 08](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2008)
-  - Loader
-        
+|   [Design 01](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2001)  |  [Design 06](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2006) | [Design 11](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20011) |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|   Button Design | Ecommerce | University |
+| [Design 02](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2002)  |  [Design 07](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2007)  | [Design 12](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20012) |
+| Developers | Article | Bleedcode |
+|  [Design 03](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2003)  |  [Design 08](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2008) | [Design 13](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20013)
+| 404 Error | Loader | D Bro Code |
+|  [Design 04](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2004)  |  [Design 09](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2009) | [Design 14](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2014) |
+| Coming Soon | Warning Page | Merry Chrismas |
+|  [Design 05](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2005) |  [Design 10](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20010) | [Design 10](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20010) |
+| Profile - Mobile | LOG IN / SING UP - Mobile | To Do List - Mobile |
 
 -- [**WAIT FOR NEW DESIGNS**](https://www.facebook.com/codezonetech/) --
 
