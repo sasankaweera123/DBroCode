@@ -8,20 +8,17 @@ We do cool stuff in #coding 🤓
 
 ## Designs
 
-- [Design 01](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2001)
-  - Button Design
-- [Design 02](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2002)
-  - Developers
-- [Design 03](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2003)
-  - 404 Error
-- [Design 04](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2004)
-  - Coming Soon
-- [Design 05](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2005)
-  - Profile
-    - Mobile
-- [Design 06](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2006)
-  - Ecommerce
-        
+|   [Design 01](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2001)  |  [Design 06](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2006) | [Design 11](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2011) | [Design 16](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2016) | [Design 21](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2021) |
+| :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|   Button Design | Ecommerce | University | Chat App | S/T New Year |
+| [Design 02](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2002)  |  [Design 07](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2007)  | [Design 12](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2012) | [Design 17](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2017) | [Design 22](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2022) |
+| Developers | Article | Bleedcode | Weather Forecast | Menu |
+|  [Design 03](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2003)  |  [Design 08](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2008) | [Design 13](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2013) | [Design 18](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2018) | [Design 23](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2023) |
+| 404 Error | Loader | D Bro Code | Packages | Are you Ready? |
+|  [Design 04](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2004)  |  [Design 09](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2009) | [Design 14](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2014) | [Design 19](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2019) | [Design 24](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2024) |
+| Coming Soon | Warning Page | Merry Chrismas | Review |
+|  [Design 05](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2005) |  [Design 10](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20010) | [Design 15](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2010) | [Design 20](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2020) |
+| Profile - Mobile | LOG IN / SING UP - Mobile | To Do List - Mobile | Clock - Mobile |
 
 -- [**WAIT FOR NEW DESIGNS**](https://www.facebook.com/codezonetech/) --
 
