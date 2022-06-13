@@ -5,8 +5,8 @@ body {
     justify-content: center;
     background-image: url('IMG/graduate.png');
     background-repeat: no-repeat;
-    width: 1154;
-    height: 487;
+    width: 900;
+    height: 450;
     align-items: center;
     background-position: 50% 0px;
     font-family: 'Baloo Tamma 2', cursive;
@@ -37,6 +37,9 @@ body {
 
 h1{
     font-weight: bolder;
+    font-style: oblique;
+    font-variant-ligatures: additional-ligatures;
+
 }
 
 
@@ -68,6 +71,9 @@ h1{
     margin-left: 3em;
     color: #1B03A3;
     border-color: #1B03A3;
+    border-style: groove;
+    border-radius: 12px;
+    padding: 8px 14px;
     
    
 }
