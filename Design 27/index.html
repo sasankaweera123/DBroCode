@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Under Construction</title>
+    <link rel="stylesheet" href="Css/index.css" />
+</head>
+
+<body>
+    <!-- The two texts -->
+    <div id="container">
+        <span id="text1"></span>
+        <span id="text2"></span>
+    </div>
+
+    <!-- The SVG filter used to create the merging effect -->
+    <svg id="filters">
+      <defs>
+        <filter id="threshold">
+          <!-- Basically just a threshold effect - pixels with a high enough opacity are set to full opacity, and all other pixels are set to completely transparent. -->
+          <feColorMatrix
+            in="SourceGraphic"
+            type="matrix"
+            values="1 0 0 0 0
+									0 1 0 0 0
+									0 0 1 0 0
+									0 0 0 255 -140"
+          />
+        </filter>
+      </defs>
+    </svg>
+
+    <script src="Js/index.js"></script>
+</body>
+
+</html>
