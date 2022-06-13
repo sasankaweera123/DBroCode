@@ -43,7 +43,7 @@ h1 {
 .headClass {
     width: 20%;
     float: left;
-    padding-left: 3em;
+    padding-left: 5em;
     height: 5em;
 }
 
@@ -52,7 +52,7 @@ h1 {
     float: right;
     height: 5em;
     padding-top: 1em;
-    padding-right: 2em;
+    padding-right: 5em;
 }
 
 button {
