@@ -48,10 +48,11 @@ h1 {
 }
 
 .toolbar {
+    margin: auto;
+    margin-top: -3.5em;
     width: 70%;
     float: right;
     height: 5em;
-    padding-top: 1em;
     padding-right: 5em;
 }
 
