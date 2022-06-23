@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&display=swap");
+@import "compass/css3";
+:root {
+    /* Base font size */
+    font-size: 10px;
+    --bs-info-rgb: 13, 202, 240;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #fafafa;
+}
+
+.container {
+    max-width: 100rem;
+    margin: 0 auto;
+    padding: 0 2rem 2rem;
+}
+
+
+/* .topic {
+    display: flex;
+    justify-content: center;
+} */
+
+.heading {
+    font-family: "Baloo Tamma 2", cursive;
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: center;
+    padding: 3.5rem 0;
+    color: #1a1a1a;
+}
+
+.heading span {
+    display: block;
+    text-decoration: underline;
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) !important;
+}
+
+.buttonposi {
+    width: 200px;
+    height: 100%;
+    margin: 0 auto 0;
+    -webkit-perspective: 1000;
+    -webkit-backface-visibility: hidden;
+    background: #fff;
+}
+
+.pulse-button {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-left: -20px;
+    margin-top: -50px;
+    margin-bottom: 20px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    font-size: 1.3em;
+    font-weight: light;
+    font-family: "Trebuchet MS", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 50px;
+    letter-spacing: -1px;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    background: black;
+    cursor: pointer;
+    box-shadow: 0 0 0 0 rgba(black, 0.5);
+    -webkit-animation: pulse 1.5s infinite;
+}
+
+.pulse-button:hover {
+    -webkit-animation: none;
+}
+
+@-webkit-keyframes pulse {
+    0% {
+        @include transform(scale(0.9));
+    }
+    70% {
+        @include transform(scale(1));
+        box-shadow: 0 0 0 50px rgba(#5a99d4, 0);
+    }
+    100% {
+        @include transform(scale(0.9));
+        box-shadow: 0 0 0 0 rgba(#5a99d4, 0);
+    }
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    /* Compensate for excess margin on outer gallery flex items */
+    margin: -1rem -1rem;
+}
+
+.gallery-item {
+    /* Minimum width of 24rem and grow to fit available space */
+    flex: 1 0 24rem;
+    /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
+    margin: 1rem;
+    box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+}
+
+.gallery-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 400ms ease-out;
+}
+
+.gallery-image:hover {
+    transform: scale(1.15);
+}
+
+
+/*
+
+The following rule will only run if your browser supports CSS grid.
+
+Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling. 
+
+*/
+
+@supports (display: grid) {
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+        grid-gap: 2rem;
+    }
+    .gallery,
+    .gallery-item {
+        margin: 0;
+    }
+}
