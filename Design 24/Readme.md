@@ -26,7 +26,7 @@ Choose a job you love, and you will never have to work a day in your life.✅❤
 
 ## Images
 
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/gaya/Design%2024/IMG/imgR.png">
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2024/IMG/imgR.png">
 
 ## Creators
 
