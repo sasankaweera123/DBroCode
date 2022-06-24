@@ -16,7 +16,7 @@ We do cool stuff in #coding 🤓
 |  [Design 03](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2003)  |  [Design 08](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2008) | [Design 13](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2013) | [Design 18](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2018) | [Design 23](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2023) |
 | 404 Error | Loader | D Bro Code | Packages | Are you Ready? |
 |  [Design 04](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2004)  |  [Design 09](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2009) | [Design 14](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2014) | [Design 19](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2019) | [Design 24](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2024) |
-| Coming Soon | Warning Page | Merry Chrismas | Review |
+| Coming Soon | Warning Page | Merry Chrismas | Review | Jobs
 |  [Design 05](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2005) |  [Design 10](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%20010) | [Design 15](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2010) | [Design 20](https://github.com/CodeZoneTech/DBroCode/tree/main/Design%2020) |
 | Profile - Mobile | LOG IN / SING UP - Mobile | To Do List - Mobile | Clock - Mobile |
 
