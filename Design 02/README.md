@@ -22,9 +22,9 @@ The value of identity of course is so often with it comes purpose.🤓
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Black Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| White Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Red Color | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) #FF0000 |
+| Black Color | ![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000` |
+| White Color | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) `#FFFFFF` |
+| Red Color | ![#FF0000](https://via.placeholder.com/15/FF0000/FF0000.png) `#FF0000`  |
 
 
 ## Images
