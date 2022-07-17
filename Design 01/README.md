@@ -26,8 +26,8 @@ They always say time changes things, but you actually have to change them yourse
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Green Color | ![#008243](https://via.placeholder.com/10/008243?text=+) #008243 |
-| Red Color | ![#B40061](https://via.placeholder.com/10/B40061?text=+) #B40061 |
+| Green Color | ![#008243](https://via.placeholder.com/15/008243/008243.png) `#008243` |
+| Red Color | ![#B40061](https://via.placeholder.com/15/B40061/B40061.png) `#B40061` |
 
 
 ## Images
