@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+    position: relative;
+    /* justify-content: center; 
+    align-items: center; */
+    background: rgba(24, 25, 26, 1);
+  }
+  
+  .centr{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }
+  
+  .image{
+    margin-top: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    background-color: rgba(219.94, 219.94, 219.94, 1);
+    width: 170px;
+    padding: 5px;
+    border-radius: 60%;
+    height: 170px;
+    align-items: center;
+  }
+  img{
+    border-radius: 60%;
+    height:160px;
+    width:160px;
+    justify-content: center;
+   align-items: center;
+    border-color: rgba(219.94, 219.94, 219.94, 1);
+    
+  
+  }
+  .v746_2 {
+    width: 100%;
+    height: 1024px;
+    background: rgba(253,254,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  
+  .review {
+    width: 407px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 110px;
+    left: 554px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 64px;
+    opacity: 1;
+    text-align: left;
+  }
+  .spc{
+    height: 10px;
+  
+  }
+  
+  .pic {
+   
+    width: 923px;
+    height: 451px;
+    background: rgba(36,37,38,1);
+    opacity: 1;
+    position: absolute;
+    top: 221px;
+    left: 296px;
+    border-top-left-radius: 28px;
+    border-top-right-radius: 28px;
+    border-bottom-left-radius: 28px;
+    border-bottom-right-radius: 28px;
+    box-shadow: 0px 4px 4px 7px rgba(179.56, 165.35, 165.35, 0.25);
+    overflow: hidden;
+  }
+  
+  
+  .nam {
+    width: 333px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 432px;
+    left: 591px;
+    font-family: Roboto;
+    font-weight: Medium;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+  }
+  .mng {
+    width: 142px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 480px;
+    left: 687px;
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  .right {
+    width: 45px;
+    height: 45px;
+    top: 444px;
+    color: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    
+    left: 1141px;
+    overflow: hidden;
+  }
+  
+  
+  .left {
+    width: 45px;
+    height: 45px;
+    top: 444px;
+    color: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+  
+    left: 317px;
+    overflow: hidden;
+    
+  }
+  
+  .description {
+    width: 677px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 523px;
+    left: 419px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  

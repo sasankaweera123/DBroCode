@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(161, 224, 203);
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 span {
+    color: rgb(255, 81, 81);
+    text-shadow: 0 0 160px red;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.words {
+    position: relative;
+    top: -50px;
+    left: -30%;
+}
+
+.tree {
+    position: relative;
+    top: -50px;
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+    transform: rotateX(-20deg) rotateY(30deg);
+    animation: animate 6s linear infinite;
+}
+
+.tree::before {
+    content: '⭐';
+    position: absolute;
+    top: -85px;
+    left: calc(50% - 33px);
+    font-size: 3em;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotateX(-20deg) rotateY(360deg);
+    }
+    100% {
+        transform: rotateX(-20deg) rotateY(0deg);
+    }
+}
+
+.tree div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transform: translateY(calc(100px*var(--j)));
+}
+
+.tree div.top span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, rgb(81, 197, 81), rgb(120, 218, 120));
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform-origin: bottom;
+    border-bottom: 3px solid #00000019;
+    transform: rotateY(calc(90deg * var(--i))) rotateX(30deg) translateZ(115px);
+}
+
+.tree div.bottom span {
+    position: absolute;
+    top: 320px;
+    left: calc(50% - 30px);
+    width: 55px;
+    height: 100%;
+    background: linear-gradient(90deg, rgb(197, 156, 81), rgb(184, 133, 39));
+    transform-origin: bottom;
+    border-bottom: 10px solid #00000055;
+    transform: rotateY(calc(90deg * var(--i))) translateZ(27px);
+}
+
+.shadow {
+    position: absolute;
+    top: -50px;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    background: #0002;
+    transform-style: preserve-3d;
+    transform: rotateX(90deg) translateZ(-500px);
+    filter: blur(20px);
+}

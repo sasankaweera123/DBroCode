@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: consolas;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #232323 !important;
+}
+
+canvas {
+    opacity: 0.05;
+}
+
+.keyboard {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+
+span {
+    position: relative;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    padding: 8px 15px;
+    margin: 8px 4px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #282828, #202020);
+    box-shadow: inset -8px 0 8px rgba(0, 0, 0, 0.15), inset 0 0 0 2px rgba(0, 0, 0, 0.75), 0 0 0 2px rgb(27, 3, 163, 0.75), 10px 20px 25px rgb(27, 3, 163, 0.4);
+    overflow: hidden;
+}
+
+span:last-child {
+    width: 100%;
+}
+
+.snmiddle {
+    width: 50%;
+    box-shadow: inset -8px 0 8px rgba(0, 0, 0, 0.15), inset 0 0 0 2px rgba(0, 0, 0, 0.75), 0 0 0 2px rgb(250, 237, 39, 0.75), 10px 20px 25px rgb(250, 237, 39, 0.4);
+}
+
+.snmiddle i {
+    color: rgba(255, 252, 217, 0.75);
+}
+
+span::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 4px;
+    bottom: 14px;
+    right: 12px;
+    background: linear-gradient(90deg, #232323 #4a4a4a);
+    border-radius: 10px;
+    box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.25), 10px 5px 10px rgba(0, 0, 0, 0.15);
+    border-left: 1px solid #0004;
+    border-bottom: 1px solid #0004;
+    border-top: 1px solid #0009;
+}
+
+span i {
+    position: relative;
+    color: rgba(219, 213, 255, 0.75);
+    font-style: normal;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
