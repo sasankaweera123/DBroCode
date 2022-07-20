@@ -1,4 +1,3 @@
-
 # S/T New Year
 
 May the new year acquire all the beneficial things life you genuinely merit. You had an astonishing year as of now and you’re going to have another all the more astounding one! 🎉🎇🎆
@@ -7,11 +6,10 @@ Happy Sinhala Tamil New Year 2022!❤️‍🔥✨
 
 ## Features
 
-- New Year Post 
+- New Year Post
 - Live previews
 - Fullscreen mode
 - Animation
-
 
 ## 🛠 Skills
 
@@ -21,37 +19,33 @@ Happy Sinhala Tamil New Year 2022!❤️‍🔥✨
 
 </br>
 
-
 ## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Black Color | ![#000000](https://via.placeholder.com/10/0000008?text=+) #000000 |
-| White Color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| Yellow Color | ![#FDC708](https://via.placeholder.com/10/FDC708?text=+) #FDC708 |
-| Blue Color | ![#1B03A3](https://via.placeholder.com/10/1B03A3?text=+) #1B03A3 |
-
+| Color        | Hex                                                                    |
+| ------------ | ---------------------------------------------------------------------- |
+| Black Color  | ![#000000](https://via.placeholder.com/15/000000/000000.png) `#000000` |
+| White Color  | ![#ffffff](https://via.placeholder.com/15/ffffff/ffffff.png) `#ffffff` |
+| Yellow Color | ![#FDC708](https://via.placeholder.com/15/FDC708/FDC708.png) `#FDC708` |
+| Blue Color   | ![#1B03A3](https://via.placeholder.com/15/1B03A3/1B03A3.png) `#1B03A3` |
 
 ## Images
-<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2021/IMG/img1.png">
 
+<img width="500px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2021/IMG/img1.png">
 
 ## Creators
 
-| [<img src="https://github.com/CodeZoneTech.png?size=250" width="115"><br><sub>@codezone</sub>](https://github.com/CodeZoneTech) | [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | [<img  src="https://github.com/nidnidulafernando.png?size=115" width="115"><br><sub>@nidnidulafernando</sub>](https://github.com/nidnidulafernando) | [<img src="https://github.com/Gayashani00.png?size=250" width="115"><br><sub>@Gayashani00</sub>](https://github.com/Gayashani00) | 
-| :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------: |
-
+| [<img src="https://github.com/CodeZoneTech.png?size=250" width="115"><br><sub>@codezone</sub>](https://github.com/CodeZoneTech) | [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | [<img  src="https://github.com/nidnidulafernando.png?size=115" width="115"><br><sub>@nidnidulafernando</sub>](https://github.com/nidnidulafernando) | [<img src="https://github.com/Gayashani00.png?size=250" width="115"><br><sub>@Gayashani00</sub>](https://github.com/Gayashani00) |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 
 ## Find Us
 
 📫 How to reach Us... , </br></br>
 <a href="https://www.facebook.com/CodeZone-107084475018756/">
-  <img align="left" alt="Facebook" width="120px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img align="left" alt="Facebook" width="120px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/d_bro_code/">
-  <img align="left" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 
 </br>
 

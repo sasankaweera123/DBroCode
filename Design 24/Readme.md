@@ -19,10 +19,10 @@ Choose a job you love, and you will never have to work a day in your life.✅❤
 
 ## Color Reference
 
-| Color      | Hex                                                                           |
-| ---------- | ----------------------------------------------------------------------------- |
-| Blue Color | ![#1b03a3](https://via.placeholder.com/15/1b03a3/000000?text=+) #1b03a3       |
-| Grey Color | ![#d9d9d988](https://via.placeholder.com/15/d9d9d988/000000?text=+) #d9d9d988 |
+| Color      | Hex                                                                            |
+| ---------- | ------------------------------------------------------------------------------ |
+| Blue Color | ![#1b03a3](https://via.placeholder.com/15/1b03a3/1b03a3.png) `#1b03a3`         |
+| Grey Color | ![#d9d9d988](https://via.placeholder.com/15/d9d9d988/d9d9d988.png) `#d9d9d988` |
 
 ## Images
 
