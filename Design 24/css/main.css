@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500&display=swap");
+body {
+    font-weight: bold;
+    font-size: 24;
+    justify-content: center;
+    background-image: url("IMG/graduate.png");
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 450;
+    align-items: center;
+    background-position: 50% 0px;
+    font-family: "Baloo Tamma 2", cursive;
+    overflow-x: hidden;
+    margin: auto;
+}
+
+.mainClass {
+    max-width: 100%;
+    margin: auto;
+}
+
+.mainSection {
+    background-color: #d9d9d988;
+    color: #1b03a3;
+    height: 120px;
+    width: 100%;
+}
+
+.bodySection {
+    padding-top: 3%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 32px;
+    font-style: oblique;
+    font-variant-ligatures: additional-ligatures;
+}
+
+.headClass {
+    width: 20%;
+    float: left;
+    padding-left: 5em;
+    height: 5em;
+}
+
+.toolbar {
+    margin: auto;
+    margin-top: -3.5em;
+    width: 70%;
+    float: right;
+    height: 5em;
+    padding-right: 5em;
+}
+
+button {
+    margin: 20px;
+    float: right;
+    position: right;
+}
+
+.custom-btn {
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5), 7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+.btn-1 {
+    background: rgb(6, 14, 131);
+    background: linear-gradient( 0deg, rgba(6, 14, 131, 1) 0%, rgba(12, 25, 180, 1) 100%);
+    border: none;
+}
+
+.btn-1:hover {
+    background: rgb(0, 3, 255);
+    background: linear-gradient( 0deg, rgba(0, 3, 255, 1) 0%, rgba(2, 126, 251, 1) 100%);
+}
+
+footer {
+    background-color: #d9d9d988;
+    overflow: hidden;
+}
+
+ul.bottomlist {
+    list-style-type: none;
+    display: flex;
+    padding-top: 2em;
+    overflow: hidden;
+    color: #1b03a3;
+    height: 7em;
+    font-size: 11px;
+}
+
+svg {
+    margin-right: 1em;
+}
+
+.listTxt {
+    display: flex;
+    margin-right: 5%;
+    padding-left: 5%;
+}

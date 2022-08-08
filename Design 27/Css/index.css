@@ -1,0 +1,34 @@
+/* Cool font from Google Fonts! */
+
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&display=swap");
+body {
+    margin: 0px;
+    background-color: #1b1b1b;
+}
+
+#container {
+    /* Center the text in the viewport. */
+    position: absolute;
+    margin: auto;
+    width: 100vw;
+    height: 80pt;
+    top: 0;
+    bottom: 0;
+    /* This filter is a lot of the magic, try commenting it out to see how the morphing works! */
+    filter: url(#threshold) blur(0.6px);
+}
+
+
+/* Your average text styling */
+
+#text1,
+#text2 {
+    position: absolute;
+    width: 100%;
+    display: inline-block;
+    font-family: "Baloo Tamma 2", cursive;
+    font-size: 80pt;
+    text-align: center;
+    user-select: none;
+    color: orangered;
+}
