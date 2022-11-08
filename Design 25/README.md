@@ -11,3 +11,5 @@ This kit comes with more than 15 screens which contain the most common screens f
 ![Preview](/preview/2.jpg)
 
 ### Download complete Shop UI kit [Download](https://www.patreon.com/posts/61709201)
+
+# Update Soon 

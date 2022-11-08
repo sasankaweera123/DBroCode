@@ -1,4 +1,5 @@
-# DBroCode
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BalooTamma-Regular&size=32&pause=1000&color=F70000&width=435&lines=Welcome+to+DBroCode)](https://git.io/typing-svg)
+
 Designing UI for Websites and Mobile Application
 
 "Creativity is intelligence having fun"
@@ -46,4 +47,5 @@ We do cool stuff in #coding 🤓
 ## License
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 
