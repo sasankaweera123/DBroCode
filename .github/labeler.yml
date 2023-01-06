@@ -1,8 +1,0 @@
-# review-required label to any change in the repository
-review-required:
-  - ./*
-  - ./**/*
-
-# new-post label to any change in the _posts directory
-new-post:
-  - _posts/*
