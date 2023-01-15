@@ -30,9 +30,8 @@ If you do not expect the unexpected you will not find it, for it is not to be re
 
 ## Creators
 
-| [<img src="https://github.com/CodeZoneTech.png?size=250" width="115"><br><sub>@codezone</sub>](https://github.com/CodeZoneTech) | [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | [<img  src="https://github.com/nidnidulafernando.png?size=115" width="115"><br><sub>@nidnidulafernando</sub>](https://github.com/nidnidulafernando) | [<img src="https://github.com/Gayashani00.png?size=250" width="115"><br><sub>@Gayashani00</sub>](https://github.com/Gayashani00) | [<img src="https://github.com/PavinduC.png?size=250" width="115"><br><sub>@PavinduC</sub>](https://github.com/PavinduC) |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-
+| [<img src="https://github.com/CodeZoneTech.png?size=250" width="115"><br><sub>@codezone</sub>](https://github.com/CodeZoneTech) | [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | 
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | 
 ## Find Us
 
 📫 How to reach Us... , </br></br>
@@ -47,4 +46,4 @@ If you do not expect the unexpected you will not find it, for it is not to be re
 
 ## License
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
