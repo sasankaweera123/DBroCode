@@ -53,4 +53,4 @@ Eat, drink and live free. There’s no telling what might happen tomorrow. 🍲�
 
 ## License
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
