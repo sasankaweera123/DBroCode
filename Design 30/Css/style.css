@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #212529 !important;
+}
+
+.btn {
+  width: 100px;
+  height: 40px;
+  background: #ff7200 !important;
+  border: 2px solid #ff7200;
+  margin-top: 13px;
+  color: #fff !important;
+  font-size: 15px;
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+.btn:hover {
+  color: #212529 !important;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+form .btn {
+  background-color: #ff7200;
+}
+
+.form {
+  width: 300px;
+  height: 350px;
+  background: transparent;
+  position: relative;
+  top: 10%;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.form h2 {
+  width: 220px;
+  text-align: center;
+  color: #ff7200;
+  font-size: 22px;
+  background-color: #212529;
+  border-radius: 10px;
+  margin: 2px;
+  padding: 8px;
+}
+
+.form input {
+  width: 240px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #ff7200;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  color: #fff;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  font-family: sans-serif;
+}
+
+.form input:focus {
+  outline: none;
+}
+
+::placeholder {
+  color: #fff;
+  font-family: Arial;
+}
+.form .link {
+  font-family: Arial;
+  font-size: 17px;
+  padding-top: 20px;
+  text-align: center;
+}
+.form .link a {
+  text-decoration: none;
+  color: #ff7200;
+}
+.couponDetails .form {
+  width: 100%;
+}
+.couponDetails .formContainer {
+  padding-left: 25%;
+}
+
+.couponDetails .formContainer .formButton {
+  width: 100%;
+  padding-left: 18%;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border: none;
+  outline: none;
+}
+
+label {
+  width: 240px;
+  height: 30px;
+  display: inline-block;
+}
+
+.container .couponDetails {
+  color: #fff;
+}
+.couponDetails h2 {
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #ff7200;
+}
+
+@keyframes move_wave {
+  0% {
+    transform: translateX(0) translateZ(0) scaleY(1);
+  }
+  50% {
+    transform: translateX(-25%) translateZ(0) scaleY(0.55);
+  }
+  100% {
+    transform: translateX(-50%) translateZ(0) scaleY(1);
+  }
+}
+.waveWrapper {
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  margin: auto;
+  z-index: -1;
+}
+.waveWrapperInner {
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  height: 100%;
+  bottom: -1px;
+  background-image: linear-gradient(to top, #212529 20%, #27273c 80%);
+}
+.bgTop {
+  z-index: 15;
+  opacity: 0.5;
+}
+.bgMiddle {
+  z-index: 10;
+  opacity: 0.75;
+}
+.bgBottom {
+  z-index: 5;
+}
+.wave {
+  position: absolute;
+  left: 0;
+  width: 200%;
+  height: 100%;
+  background-repeat: repeat no-repeat;
+  background-position: 0 bottom;
+  transform-origin: center bottom;
+}
+.waveTop {
+  background-size: 50% 100px;
+}
+.waveAnimation .waveTop {
+  animation: move-wave 3s;
+  -webkit-animation: move-wave 3s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.waveMiddle {
+  background-size: 50% 120px;
+}
+.waveAnimation .waveMiddle {
+  animation: move_wave 10s linear infinite;
+}
+.waveBottom {
+  background-size: 50% 100px;
+}
+.waveAnimation .waveBottom {
+  animation: move_wave 15s linear infinite;
+}
