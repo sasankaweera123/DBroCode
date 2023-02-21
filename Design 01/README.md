@@ -3,6 +3,7 @@
 They always say time changes things, but you actually have to change them yourself!!!
 🙁➡🙂
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
 ## Features
 
 - Green/Red mode toggle

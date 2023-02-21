@@ -4,6 +4,8 @@ Christmas is like candy 🤤🍭 it slowly melts in your mouth sweetening every 
 </br>
 Merry christmas to all of you❤
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Chrismas Post

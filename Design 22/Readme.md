@@ -2,6 +2,8 @@
 
 Eat, drink and live free. There’s no telling what might happen tomorrow. 🍲🍴🍻
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Resturant site

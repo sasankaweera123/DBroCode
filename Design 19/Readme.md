@@ -2,6 +2,8 @@
 
 True intuitive expertise is learned from prolonged experience with good feedback on mistakes.😇
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Review

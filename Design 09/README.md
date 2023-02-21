@@ -2,6 +2,8 @@
 
 We are capable of producing anything from a blank slate, but it's difficult to remove errors from an already-scrawled piece of paper.
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Animation

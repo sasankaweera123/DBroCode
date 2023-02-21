@@ -2,6 +2,8 @@
 
 Code while suffocating👿
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Coding Competition

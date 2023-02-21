@@ -2,6 +2,8 @@
 
 Filled with anything? Find an emptiness and let your load flow into it!😉
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Animation

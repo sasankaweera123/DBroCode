@@ -2,6 +2,8 @@
 
 The value of identity of course is so often with it comes purpose.🤓
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Command line interface

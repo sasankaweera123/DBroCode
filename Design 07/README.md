@@ -2,6 +2,8 @@
 
 When we try to pick out anything by itself,we find it hitched to everything else in the universe. 🌱☘️🍀🌎🍃
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Animation

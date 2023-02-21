@@ -2,6 +2,8 @@
 
 Education is the passport to the future, for tomorrow belongs to those who prepare for it today. 😇🧑‍🎓
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - University site

@@ -2,6 +2,8 @@
 
 Time is meaningless,expect as a warrior, each moment is a countdown to the end.🤓
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Background animation

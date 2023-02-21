@@ -2,6 +2,8 @@
 
 Believe that there are no limitations, no barriers to your success – you will be empowered and you will achieve.
 
+![Mobile badge](https://img.shields.io/badge/DBroCode-mobile-blue)
+
 ## Features
 
 - Male/Female mode toggle

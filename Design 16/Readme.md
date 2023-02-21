@@ -2,6 +2,8 @@
 
 The biggest communication problem is we do not listen to understand 😶.We listen to reply😇
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Social Media App

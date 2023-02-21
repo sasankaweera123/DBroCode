@@ -2,6 +2,8 @@
 
 If you do not expect the unexpected you will not find it, for it is not to be reached by search or trail.😇
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Search

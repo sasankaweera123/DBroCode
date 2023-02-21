@@ -2,6 +2,8 @@
 
 Only by giving 🤝🏻 you are able to receive more than you already have 💰
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Packages

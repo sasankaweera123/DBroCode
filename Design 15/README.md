@@ -2,6 +2,8 @@
 
 There can be no real beauty without neatness and order🧑‍🎓
 
+![Mobile badge](https://img.shields.io/badge/DBroCode-mobile-blue)
+
 ## Features
 
 - List preview

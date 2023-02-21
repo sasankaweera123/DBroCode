@@ -2,6 +2,8 @@
 
 There are infinite shadings of light and shadows and colors .. it's an extraordinarily subtle language.Figuring out how to speak that language is a lifetime job.😇
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Live previews

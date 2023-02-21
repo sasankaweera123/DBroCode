@@ -4,6 +4,8 @@ May the new year acquire all the beneficial things life you genuinely merit. You
 </br>
 Happy Sinhala Tamil New Year 2022!❤️‍🔥✨
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - New Year Post

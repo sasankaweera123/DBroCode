@@ -2,6 +2,8 @@
 
 In computer network communications, the HTTP 404, 404 not found, 404, 404 error, page not found or file not found error message is a hypertext transfer protocol standard response code, to indicate that the browser was able to communicate with a given server, but the server could not find what was requested.
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Button animation

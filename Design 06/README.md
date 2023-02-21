@@ -2,6 +2,8 @@
 
 Ninety percent of selling is conviction and 10 percent is persuasion😎
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Rapid Api

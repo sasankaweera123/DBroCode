@@ -2,6 +2,8 @@
 
 Wherever you go, no matter what the weather, always bring your own sunshine🌞😇
 
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
+
 ## Features
 
 - Weather
