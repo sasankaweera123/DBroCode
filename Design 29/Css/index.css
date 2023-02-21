@@ -1,115 +1,113 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&display=swap");
 body {
-    margin: 0;
+  margin: 0;
 }
 
 h1 {
-    font-family: "Baloo Tamma 2", cursive;
-    font-weight: 300;
-    letter-spacing: 2px;
-    font-size: 48px;
+  font-family: "Baloo Tamma 2", cursive;
+  font-weight: 300;
+  letter-spacing: 2px;
+  font-size: 48px;
 }
 
 p {
-    font-family: "Baloo Tamma 2", cursive;
-    letter-spacing: 1px;
-    font-size: 14px;
-    color: #243b55;
+  font-family: "Baloo Tamma 2", cursive;
+  letter-spacing: 1px;
+  font-size: 14px;
+  color: #243b55;
 }
 
 .header {
-    position: relative;
-    text-align: center;
-    background: #232526;
-    background: #141e30;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #243b55, #141e30);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #243b55, #141e30);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: white;
+  position: relative;
+  text-align: center;
+  background: #232526;
+  background: #141e30;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #243b55, #141e30);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #243b55, #141e30);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
 }
 
 .inner-header {
-    height: 65vh;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+  height: 65vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .flex {
-    /*Flexbox for containers*/
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+  /*Flexbox for containers*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .waves {
-    position: relative;
-    width: 100%;
-    height: 15vh;
-    margin-bottom: -7px;
-    /*Fix for safari gap*/
-    min-height: 100px;
-    max-height: 150px;
+  position: relative;
+  width: 100%;
+  height: 15vh;
+  margin-bottom: -7px;
+  /*Fix for safari gap*/
+  min-height: 100px;
+  max-height: 150px;
 }
 
 .content {
-    position: relative;
-    height: 20vh;
-    text-align: center;
-    background-color: white;
+  position: relative;
+  height: 20vh;
+  text-align: center;
+  background-color: #ffffff;
 }
-
 
 /* Animation */
 
-.parallax>use {
-    animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
 }
 
-.parallax>use:nth-child(1) {
-    animation-delay: -2s;
-    animation-duration: 7s;
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
 }
 
-.parallax>use:nth-child(2) {
-    animation-delay: -3s;
-    animation-duration: 10s;
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
 }
 
-.parallax>use:nth-child(3) {
-    animation-delay: -4s;
-    animation-duration: 13s;
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
 }
 
-.parallax>use:nth-child(4) {
-    animation-delay: -5s;
-    animation-duration: 20s;
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
 }
 
 @keyframes move-forever {
-    0% {
-        transform: translate3d(-90px, 0, 0);
-    }
-    100% {
-        transform: translate3d(85px, 0, 0);
-    }
+  0% {
+    transform: translate3d(-90px, 0, 0);
+  }
+  100% {
+    transform: translate3d(85px, 0, 0);
+  }
 }
-
 
 /*Shrinking for mobile*/
 
 @media (max-width: 768px) {
-    .waves {
-        height: 40px;
-        min-height: 40px;
-    }
-    .content {
-        height: 30vh;
-    }
-    h1 {
-        font-size: 24px;
-    }
+  .waves {
+    height: 40px;
+    min-height: 40px;
+  }
+  .content {
+    height: 30vh;
+  }
+  h1 {
+    font-size: 24px;
+  }
 }
