@@ -13,14 +13,11 @@ Believe that there are no limitations, no barriers to your success – you will 
 
 ## 🛠 Skills
 
-<img align="left" alt="Flutter" width="120px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="left" alt="Dart" width="100px" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img align="left" alt="Android" width="120px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img align="left" alt="IOS" width="90px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img align="left" alt="Linux" width="110px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</br>
-</br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Color Reference
 
@@ -33,9 +30,9 @@ Believe that there are no limitations, no barriers to your success – you will 
 
 ## Images
 
-<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2005/IMG/img1.png">
-<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2005/IMG/img2.png">
-<img width="200px" src="https://github.com/CodeZoneTech/DBroCode/blob/main/Design%2005/IMG/img3.png">
+![Image 01](./IMG/img1.png)
+![Image 02](./IMG/img2.png)
+![Image 03](./IMG/img3.png)
 
 ## Getting Started
 
@@ -52,20 +49,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Creators
 
-| [<img src="https://github.com/CodeZoneTech.png?size=250" width="115"><br><sub>@codezone</sub>](https://github.com/CodeZoneTech) | [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | [<img  src="https://github.com/nidnidulafernando.png?size=115" width="115"><br><sub>@nidnidulafernando</sub>](https://github.com/nidnidulafernando) |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+[![CodeZone](https://github.com/CodeZoneTech.png?size=115)](https://github.com/CodeZoneTech)
+[![Sasanka](https://github.com/sasankaweera123.png?size=115)](https://github.com/sasankaweera123)
+[![Nidula](https://github.com/nidnidulafernando.png?size=115)](https://github.com/nidnidulafernando)
 
 ## Find Us
 
-📫 How to reach Us... , </br></br>
-<a href="https://www.facebook.com/CodeZone-107084475018756/">
-<img align="left" alt="Facebook" width="120px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/d_bro_code/">
-<img align="left" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+📫 How to reach Us... ,
 
-</br>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CodeZone-107084475018756/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_bro_code/)
 
 ## License
 
