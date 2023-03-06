@@ -50,6 +50,25 @@ body {
     background: #FFD700;
 }
 
+.recRichmond {
+    position: absolute;
+    width: 65%;
+    height: 100vh;
+    left: 35%;
+    top: 0px;
+    background: red;
+    border-radius: 58px;
+}
+
+.rec2Richmond {
+    position: absolute;
+    width: 60%;
+    height: 100vh;
+    left: 40%;
+    top: 0px;
+    background: red;
+}
+
 
 /* Words positionings and Styles */
 
