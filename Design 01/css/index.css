@@ -7,7 +7,7 @@
 
 :root {
     --green-color: #181818;
-    --red-color: #B40061;
+    --red-color: #483a9d;
 }
 
 * {
@@ -37,7 +37,7 @@ body {
     height: 100vh;
     left: 35%;
     top: 0px;
-    background: #ffffff;
+    background: #FFD700;
     border-radius: 58px;
 }
 
@@ -47,7 +47,7 @@ body {
     height: 100vh;
     left: 40%;
     top: 0px;
-    background: #ffffff;
+    background: #FFD700;
 }
 
 
