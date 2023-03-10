@@ -14,43 +14,63 @@
 
 <body>
     <div class="container">
-        <div class="word1">Button</div>
-        <div class="word2">Design</div>
+        <div class="word1"><span id="college_name">Mahinda</span></div>
+        <div class="word2">College</div>
         <!-- Pattern Design  -->
-        <div class="rec">
-            <div class="rec2"></div>
+        <div class="rec" id="rec1">
+            <div class="rec2" id="rec2"></div>
             <div class="polyposi1">
                 <div class="poly1">
-                    <svg height="200" width="300">
+                    <!-- <svg height="200" width="300">
               <polygon points="150,10 250,150 50,150" class="polyStyle" />
-            </svg>
+            </svg> -->
+            <svg height="210" width="500">
+                <polygon points="100,10 40,198 190,78 10,78 160,198"
+                style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;" />
+              </svg>
                 </div>
                 <div class="poly2">
-                    <svg height="200" width="300">
+                    <!-- <svg height="200" width="300">
               <polygon points="150,10 250,150 50,150" class="polyStyle" />
-            </svg>
+            </svg> -->
+            <svg height="210" width="500">
+                <polygon points="100,10 40,198 190,78 10,78 160,198"
+                style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;" />
+              </svg>
+            
                 </div>
                 <div class="poly3">
-                    <svg height="200" width="300">
+                    <!-- <svg height="200" width="300">
               <polygon points="150,10 250,150 50,150" class="polyStyle" />
-            </svg>
+            </svg> -->
+            
                 </div>
             </div>
             <div class="polyposi2">
                 <div class="poly1">
-                    <svg height="200" width="300">
+                    <!-- <svg height="200" width="300">
               <polygon points="150,10 250,150 50,150" class="polyStyle" />
-            </svg>
+            </svg> -->
+            <svg height="210" width="500">
+                <polygon points="100,10 40,198 190,78 10,78 160,198"
+                style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;" />
+              </svg>
                 </div>
                 <div class="poly2">
-                    <svg height="200" width="300">
+                    <!-- <svg height="200" width="300">
               <polygon points="150,10 250,150 50,150" class="polyStyle" />
-            </svg>
+            </svg> -->
+            <svg height="210" width="500">
+                <polygon points="100,10 40,198 190,78 10,78 160,198"
+                style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;" />
+              </svg>
+            
                 </div>
                 <div class="poly3">
-                    <svg height="200" width="300">
+                    <!-- <svg height="200" width="300">
               <polygon points="150,10 250,150 50,150 " class="polyStyle" />
-            </svg>
+            </svg> -->
+            
                 </div>
             </div>
         </div>
@@ -76,6 +96,14 @@
             function changeMode() {
                 var elem = document.body;
                 elem.classList.toggle("greenMode");
+                document.getElementById("rec1").classList.toggle("recRichmond");
+                document.getElementById("rec2").classList.toggle("rec2Richmond");
+                
+                if(document.getElementById("college_name").textContent === "Mahinda"){
+                    document.getElementById("college_name").textContent="Richmond";
+                }else{
+                    document.getElementById("college_name").textContent="Mahinda";
+                }
             }
         </script>
     </div>

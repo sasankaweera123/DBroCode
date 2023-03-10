@@ -6,8 +6,8 @@
 }
 
 :root {
-    --green-color: #008243;
-    --red-color: #B40061;
+    --green-color:#483a9d;
+    --red-color: #181818;
 }
 
 * {
@@ -37,7 +37,7 @@ body {
     height: 100vh;
     left: 35%;
     top: 0px;
-    background: #ffffff;
+    background: #FFD700;
     border-radius: 58px;
 }
 
@@ -47,7 +47,26 @@ body {
     height: 100vh;
     left: 40%;
     top: 0px;
-    background: #ffffff;
+    background: #FFD700;
+}
+
+.recRichmond {
+    position: absolute;
+    width: 65%;
+    height: 100vh;
+    left: 35%;
+    top: 0px;
+    background: red;
+    border-radius: 58px;
+}
+
+.rec2Richmond {
+    position: absolute;
+    width: 60%;
+    height: 100vh;
+    left: 40%;
+    top: 0px;
+    background: red;
 }
 
 

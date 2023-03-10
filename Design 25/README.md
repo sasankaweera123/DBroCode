@@ -1,13 +1,44 @@
-### Flutter Shop UI kit
+# SEARCHME
 
-If you are planning to create an e-commerce app using Flutter then this Shop UI Kit would be the perfect choice for you to make a gorgeous app for both Android & iOS.
+If you do not expect the unexpected you will not find it, for it is not to be reached by search or trail.😇
 
-This kit comes with more than 15 screens which contain the most common screens for your eCommerce app like Onboarding, Authentication, Homepage, product details page, Cart, user profile and more!
+![Web Badge](https://img.shields.io/badge/DBroCode-web-orange.svg)
 
-### Download complete UI kit [Download](https://www.patreon.com/posts/61709201)
+## Features
 
-![Preview](/preview/0.png)
-![Preview](/preview/1.jpg)
-![Preview](/preview/2.jpg)
+- Search
+- google
+- Live previews
+- Fullscreen mode
 
-### Download complete Shop UI kit [Download](https://www.patreon.com/posts/61709201)
+## 🛠 Skills
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Color Reference
+
+| Color       | Hex                                                                    |
+| ----------- | ---------------------------------------------------------------------- |
+| Black Color | ![#333333](https://via.placeholder.com/15/333333/333333.png) `#333333` |
+| White Color | ![#ffffff](https://via.placeholder.com/15/ffffff/ffffff.png) `#ffffff` |
+
+## Images
+
+![Image](./IMG/IMG1.png)
+
+## Creators
+
+[![CodeZone](https://github.com/CodeZoneTech.png?size=115)](https://github.com/CodeZoneTech)
+[![Sasanka](https://github.com/sasankaweera123.png?size=115)](https://github.com/sasankaweera123)
+
+## Find Us
+
+📫 How to reach Us... ,
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CodeZone-107084475018756/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_bro_code/)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
